@@ -9,5 +9,7 @@ import datetime
 
 print("Today's date is :", datetime.date.today())
 
-print("What tims is it right now?!")
+print("What time is it right now?!")
+
+print("It is :",datetime.now())
 
